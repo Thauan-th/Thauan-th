@@ -9,8 +9,8 @@
   <img align="center" alt="th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="th-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="th-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" alt="Node"/>
-  <img height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongo/mongo-original.svg" alt="MongoDB"/>
+  <img height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node"/>
+  <img height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql"/>
 </div>
 
