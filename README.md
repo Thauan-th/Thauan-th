@@ -14,4 +14,13 @@
   <img align="center"  height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql"/>
 </div>
+<br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Thauan-th&show_icons=true&theme=vision-friendly-dark" alt="thauan's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thauan-th&layout=compact&theme=vision-friendly-dark" alt="th's most languages"/>
+</p>
+
+<br><br>
