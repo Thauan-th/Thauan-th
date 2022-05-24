@@ -1,6 +1,4 @@
 
-<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-
 ## 🛠 &nbsp;Tech Stack
 <div align="center">
   <a href="https://github.com/Thauan-th">
@@ -22,7 +20,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Thauan-th&show_icons=true&theme=vision-friendly-dark" alt="thauan's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thauan-th&layout=compact&theme=vision-friendly-dark" alt="th's most languages"/>
 </p>
 
