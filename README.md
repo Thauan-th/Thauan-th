@@ -17,10 +17,3 @@
 </div>
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thauan-th&layout=compact&theme=vision-friendly-dark" alt="th's most languages"/>
-</p>
-
-<br><br>
