@@ -12,16 +12,16 @@ export default const SKILLS = {
         FastApi,  Styled-Components, 
         Django,  Rails, Express,
         Bootstrap, React-Native, 
-        , Semantic-UI 
+        SASS/SCSS 
     ],
     dataBases: [
         MongoDB, SQL, Firebase  
     ],
-    cms: [
-        Git 
+    tools: [
+        Git , Docker , Linux 
     ],
     learning: [
-        TypeScript , ShellScript
+        TypeScript , ShellScript , ...anotherThings
     ]
 }
 ```
