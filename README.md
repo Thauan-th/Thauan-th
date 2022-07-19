@@ -1,5 +1,3 @@
-
-#### Skills
 ```javascript
 export default const SKILLS = {
     codeIn: [
