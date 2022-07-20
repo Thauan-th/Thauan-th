@@ -19,7 +19,9 @@ export default const SKILLS = {
         Git , Docker , Linux 
     ],
     learning: [
-        TypeScript , ShellScript , ...anotherThings
+        TypeScript , ShellScript ,
+        Machine_Learning , Data_Science ,
+        ...anotherThings
     ]
 }
 ```
