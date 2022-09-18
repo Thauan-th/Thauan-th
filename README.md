@@ -1,9 +1,8 @@
 ```javascript
-export default const SKILLS = {
+export default const AboutMe = {
     codeIn: [
-        Javascript, HTML, 
-        CSS, Ruby ,
-        Python
+        Javascript, Ruby,
+        Python , TypeScript
     ],
     Framewoks_Libs: [
         ReactDOM, Redux, Node, Flask 
@@ -19,9 +18,19 @@ export default const SKILLS = {
         Git , Docker , Linux 
     ],
     learning: [
-        TypeScript , ShellScript ,
-        Machine_Learning , Data_Science ,
-        ...anotherThings
+        ShellScript ,Machine_Learning, 
+        Data_Science , ...anotherThings
+    ] ,
+    colleges: [
+        {
+            id: 1,
+            name: "Estacio de Sá',
+            course: "Information Systems"
+        },{
+            id: 2,
+            name: "Uninter",
+            course:"Data Science"
+        }
     ]
 }
 ```
