@@ -5,7 +5,7 @@ export default const AboutMe = {
         Python , TypeScript
     ],
     Framewoks_Libs: [
-        ReactDOM, Redux, Node, Flask 
+        ReactDOM, Redux, Node, Flask, 
         FastApi,  Styled-Components, 
         Django,  Rails, Express,
         Bootstrap, React-Native, 
