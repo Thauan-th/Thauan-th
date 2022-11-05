@@ -26,10 +26,6 @@ export default const AboutMe = {
             id: 1,
             name: "Estacio de Sá',
             course: "Information Systems"
-        },{
-            id: 2,
-            name: "Uninter",
-            course:"Data Science"
         }
     ]
 }
