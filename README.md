@@ -11,7 +11,7 @@ export default const AboutMe = {
         Bootstrap, React-Native, 
         SASS/SCSS 
     ],
-    dataBases: [
+    databases: [
         MongoDB, SQL, Firebase  
     ],
     tools: [
