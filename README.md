@@ -1,5 +1,5 @@
 ```javascript
-export default const AboutMe = {
+export const AboutMe = {
     codeIn: [
         Javascript, Ruby,
         Python , TypeScript
@@ -15,11 +15,11 @@ export default const AboutMe = {
         MongoDB, SQL, Firebase  
     ],
     tools: [
-        Git , Docker , Linux 
+        Git , Docker , Linux , Vscode , Vim
     ],
     learning: [
-        ShellScript ,Machine_Learning, 
-        Data_Science , ...anotherThings
+        ShellScript ,Electron,  
+        Data_Science , Angular , VueJS , VimScript
     ] ,
     colleges: [
         {
