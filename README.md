@@ -1,24 +1,25 @@
 ```javascript
 export const AboutMe = {
+    developer_type: 'Full-Stack',
     codeIn: [
         Javascript, Ruby,
         Python , TypeScript
     ],
-    Framewoks_Libs: [
+    frameworks_and_libs : [
         ReactDOM, Redux, Node, Flask, 
         FastApi,  Styled-Components, 
-        Django,  Rails, Express,
-        Bootstrap, React-Native, 
-        SASS/SCSS 
+        Django, Django-Rest-Framework, Rails,
+        Express, Bootstrap, React-Native, 
+        SASS/SCSS, TailwindCSS
     ],
     databases: [
-        MongoDB, SQL, Firebase  
+        SQL, NoSQL  
     ],
     tools: [
-        Git , Docker , Linux , Vscode , Vim
+        Git , GitHub , Docker , Linux , Vscode , Vim
     ],
     learning: [
-        ShellScript ,Electron,  
+        ShellScript ,Electron, AWS ,
         Data_Science , Angular , VueJS , VimScript
     ] ,
     colleges: [
