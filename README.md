@@ -20,7 +20,8 @@ export const AboutMe = {
     ],
     learning: [
         ShellScript ,Electron, AWS ,
-        Data_Science , Angular , VueJS , VimScript
+        Data_Science , Angular , VueJS , VimScript,
+        Clean_Architeture , Clean_Code 
     ] ,
     colleges: [
         {
