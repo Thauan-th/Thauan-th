@@ -1,36 +1,37 @@
 ```javascript
-export const AboutMe = {
-    developer_type: 'Full-Stack',
-    codeIn: [
-        Javascript, Ruby,
-        Python , TypeScript
-    ],
-    frameworks_and_libs : [
-        ReactDOM, Redux, Node, Flask, 
-        FastApi,  Styled-Components, 
-        Django, Django-Rest-Framework, Rails,
-        Express, Bootstrap, React-Native, 
-        SASS/SCSS, TailwindCSS, Rspec, Capybara,
-        Selenium, Webpack
-    ],
-    databases: [
-        SQL, NoSQL  
-    ],
-    tools: [
-        Git, GitHub, Docker, Linux, Vscode, Vim, Tmux
-    ],
-    learning: [
-        ShellScript, Electron, AWS,
-        Data_Science, Angular, VueJS, VimScript,
-        Clean_Architeture, Clean_Code, TDD 
-    ] ,
-    colleges: [
-        {
-            id: 1,
-            name: "Estacio de Sá',
-            course: "Information Systems",
-            year_graduation: 2024
-        }
-    ]
-}
+export const Thauan = {
+  developerType: "Full-Stack",
+  languages: ["Javascript", "Ruby", "Python", "Shell"],
+  frameworks: {
+    backEnd: {
+      python: ["FastAPI", "Django", "Flask"],
+      ruby: ["Rails"],
+    },
+    frontEnd: {
+      javascript: ["React", "Next", "Vue"],
+    },
+  },
+  libs: {
+    frontEnd: {
+      react: ["Styled-Components", "Redux"],
+      css: ["SASS/SCSS", "Tailwind"],
+    },
+    backEnd: {
+      rails: ["Rspec", "Sidekiq", "Devise"],
+      django: ["Celery", "gunicorn"],
+    },
+  },
+  databases: {
+    sql: ["mysql", "psql", "sqlite"],
+    nosql: ["mongo"],
+  },
+  tools: ["Git", "Github", "Docker", "Linux", "Vscode", "Vim", "Tmux"],
+  learning: ["AWS", "Electron", "Figma", "Elastic Search"],
+  college: {
+    id: 1,
+    name: "Estacio de Sá",
+    course: "Information Systems",
+    year_graduation: 2024,
+  },
+};
 ```
