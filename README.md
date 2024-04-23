@@ -1,5 +1,5 @@
 ```javascript
-export const Thauan = {
+const Thauan = {
   developerType: "Full-Stack",
   languages: ["Javascript", "Ruby", "Python", "Shell"],
   frameworks: {
@@ -25,8 +25,9 @@ export const Thauan = {
     sql: ["mysql", "psql", "sqlite"],
     nosql: ["mongo"],
   },
-  tools: ["Git", "Github", "Docker", "Linux", "Vscode", "Vim", "Tmux"],
-  learning: ["AWS", "Electron", "Figma", "Elastic Search"],
+  cloud: ["AWS"],
+  tools: ["Git", "Github", "Docker", "Linux", "Vscode", "Vim", "Tmux", "ElasticSearch"],
+  learning: ["Electron", "Figma"],
   college: {
     id: 1,
     name: "Estacio de Sá",
