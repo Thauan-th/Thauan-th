@@ -4,6 +4,8 @@ I am a full-stack developer with over 4 years of experience. I am passionate abo
 
 I am currently concluding my degree in `Information Systems`. My focus is on designing systems and solving application bottlenecks.
 
+I'm also focused on my business side - I do two small side projects that allow me to exercise the entire software process from code and deploy to marketing and market analysis.
+
 
 ### Devops
   - AWS
