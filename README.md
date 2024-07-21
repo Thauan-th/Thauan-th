@@ -1,38 +1,28 @@
-```javascript
-const Thauan = {
-  developerType: "Full-Stack",
-  languages: ["Javascript", "Ruby", "Python", "Shell"],
-  frameworks: {
-    backEnd: {
-      python: ["FastAPI", "Django", "Flask"],
-      ruby: ["Rails"],
-    },
-    frontEnd: {
-      javascript: ["React", "Next", "Vue"],
-    },
-  },
-  libs: {
-    frontEnd: {
-      react: ["Styled-Components", "Redux"],
-      css: ["SASS/SCSS", "Tailwind"],
-    },
-    backEnd: {
-      rails: ["Rspec", "Sidekiq", "Devise"],
-      django: ["Celery", "gunicorn"],
-    },
-  },
-  databases: {
-    sql: ["mysql", "psql", "sqlite"],
-    nosql: ["mongo"],
-  },
-  cloud: ["AWS"],
-  tools: ["Git", "Github", "Docker", "Linux", "Vscode", "Vim", "Tmux", "ElasticSearch"],
-  learning: ["Electron", "Figma"],
-  college: {
-    id: 1,
-    name: "Estacio de Sá",
-    course: "Information Systems",
-    year_graduation: 2024,
-  },
-};
-```
+## Hello my name is Thauan
+
+I am a full-stack developer with over 4 years of experience. I am passionate about Ruby on Rails, Django, and AWS.
+
+I'm conclusing my degree on `Information System`. I'm focused on design systems and solve bottlenecks on applications.
+
+## My code skills
+
+Right now I'm focused on improve my DevOps skills
+
+### Devops
+  - AWS
+  - Docker
+  - Terraform
+  - Monitoring
+  - Databases
+  - Optimizations
+  - Elasticsearch
+
+### Back-End
+  - Ruby on Rails
+  - Django
+  - Express
+  - Automatic Tests
+
+### Front-End
+  - ReactJS
+  - VueJS
