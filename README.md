@@ -1,12 +1,9 @@
-## Hello my name is Thauan
+## Hello, my name is Thauan
 
 I am a full-stack developer with over 4 years of experience. I am passionate about Ruby on Rails, Django, and AWS.
 
-I'm conclusing my degree on `Information System`. I'm focused on design systems and solve bottlenecks on applications.
+I am currently concluding my degree in `Information Systems`. My focus is on designing systems and solving application bottlenecks.
 
-## My code skills
-
-Right now I'm focused on improve my DevOps skills
 
 ### Devops
   - AWS
