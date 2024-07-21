@@ -13,13 +13,20 @@ I am currently concluding my degree in `Information Systems`. My focus is on des
   - Databases
   - Optimizations
   - Elasticsearch
+  - CI/CD
+  - Git
 
 ### Back-End
   - Ruby on Rails
   - Django
   - Express
   - Automatic Tests
+  - Background Jobs
+  - Cache
+  - Clean Architecture
 
 ### Front-End
   - ReactJS
   - VueJS
+  - TailwindCSS
+  - Styled Components
