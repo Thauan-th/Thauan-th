@@ -17,6 +17,7 @@ I'm also focused on my business side - I do two small side projects that allow m
   - Elasticsearch
   - CI/CD
   - Git
+  - Linux
 
 ### Back-End
   - Ruby on Rails
@@ -32,3 +33,8 @@ I'm also focused on my business side - I do two small side projects that allow m
   - VueJS
   - TailwindCSS
   - Styled Components
+
+## Contact me
+  I'll do better to answer you soon as possible.
+  
+  thauan.dev.andre@gmail.com
