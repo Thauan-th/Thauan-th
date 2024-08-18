@@ -13,7 +13,6 @@ I'm also focused on my business side - I do two small side projects that allow m
   - Terraform
   - Monitoring
   - Databases
-  - Optimizations
   - Elasticsearch
   - CI/CD
   - Git
