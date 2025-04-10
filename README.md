@@ -1,6 +1,6 @@
 ## Hello, my name is Thauan
 
-I am a full-stack developer with over 4 years of experience. I am passionate about Ruby on Rails, Django, and DevOps.
+I am a full-stack developer with over 4 years of experience. I am passionate about Ruby on Rails, Django, and AWS.
 
 ## Skills
 
@@ -10,8 +10,7 @@ Below is a list of skills in which I already have some experience:
 
 - AWS
 - Docker
-- Monitoring
-- Databases
+- SQL Databases
 - Elasticsearch
 - CI/CD
 - Git
@@ -21,10 +20,6 @@ Below is a list of skills in which I already have some experience:
 
 - Ruby on Rails
 - Django
-- Automated Tests
-- Background Jobs
-- Caching
-- Clean Architecture
 
 ### Front-End
 
@@ -36,15 +31,15 @@ Below is a list of skills in which I already have some experience:
 
 ## Learning
 
-I am currently concluding my degree in `Information Systems`. My focus is on designing systems and solving real-world problems.
+My innate curiosity drives me to continuously explore emerging tech and transform complex challenges into solutions.
 
-I am deeply involved with AWS and starting to work with AI.
+Beyond technical side, I've cultivated strong business acumen through founding and managing side projects. 
 
-I'm a very curious developer, so for me, learning is a pleasure.
+This entrepreneurial experience gives me unique perspective - I understand not just how to build systems, but why we build them, bridging the gap between technical implementation and business value.
 
 ## Contact Me
 
 I’ll do my best to answer you as soon as possible.
 
-- [Email](thauan.dev.andre@gmail.com)
+- [Email](developer.thauan.andre@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/thauan-andre-b3365420b/)
