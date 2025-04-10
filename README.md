@@ -39,7 +39,5 @@ This entrepreneurial experience gives me unique perspective - I understand not j
 
 ## Contact Me
 
-I’ll do my best to answer you as soon as possible.
-
 - [Email](developer.thauan.andre@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/thauan-andre-b3365420b/)
