@@ -11,7 +11,7 @@ My approach combines deep technical implementation with strategic thinking devel
 **Infrastructure & DevOps**
 - Cloud Architecture (AWS)
 - Containerization (Docker)
-- Database Management (SQL, Elasticsearch)
+- Database Management
 - CI/CD Pipeline Implementation
 - Linux System Administration
 - Version Control (Git)
@@ -19,6 +19,7 @@ My approach combines deep technical implementation with strategic thinking devel
 **Backend Development**
 - Ruby on Rails
 - Django
+- NodeJS
 
 **Frontend Development**
 - ReactJS
@@ -27,13 +28,6 @@ My approach combines deep technical implementation with strategic thinking devel
 - TailwindCSS
 - Styled Components
 
-## Approach
-
-I focus on writing maintainable, well-tested code that scales. My experience spans the entire development process: from system design and database architecture to deployment automation and performance optimization. I prioritize solutions that balance technical excellence with practical business constraints.
-
-## Professional Development
-
-I maintain a disciplined approach to staying current with industry developments and emerging technologies, continuously evaluating new tools and methodologies for their practical application in production environments.
 
 ## Contact
 
