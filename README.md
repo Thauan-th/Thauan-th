@@ -1,43 +1,43 @@
-## Hello, I'm Thauan
+# Thauan Andre
 
-A full-stack developer with years of experience. I am passionate about to solve problems and bring ideas to life.
+Full-stack developer specializing in scalable web applications and cloud infrastructure. I architect and deliver production-grade systems that solve complex technical challenges while driving measurable business outcomes.
 
-## Skills
+## Professional Summary
 
-I'm always learning new skills, below is a quick list of the most common tools I use in my daily work.
+My approach combines deep technical implementation with strategic thinking developed through years of building and maintaining critical systems. I've founded and led technical projects from conception to production, giving me comprehensive insight into the full software development lifecycle and the business considerations that drive technical decisions.
 
-### DevOps
+## Technical Stack
 
-- AWS
-- Docker
-- SQL Databases
-- Elasticsearch
-- CI/CD
-- Git
-- Linux
+**Infrastructure & DevOps**
+- Cloud Architecture (AWS)
+- Containerization (Docker)
+- Database Management (SQL, Elasticsearch)
+- CI/CD Pipeline Implementation
+- Linux System Administration
+- Version Control (Git)
 
-### Back-End
-
+**Backend Development**
 - Ruby on Rails
 - Django
 
-### Front-End
-
+**Frontend Development**
 - ReactJS
 - jQuery
 - Stimulus
 - TailwindCSS
 - Styled Components
 
-## Learning
+## Approach
 
-My innate curiosity drives me to continuously explore emerging tech and transform complex challenges into solutions.
+I focus on writing maintainable, well-tested code that scales. My experience spans the entire development process: from system design and database architecture to deployment automation and performance optimization. I prioritize solutions that balance technical excellence with practical business constraints.
 
-Beyond technical side, I've cultivated strong business acumen through founding and managing side projects. 
+## Professional Development
 
-This entrepreneurial experience gives me unique perspective - I understand not just how to build systems, but why we build them, bridging the gap between technical implementation and business value.
+I maintain a disciplined approach to staying current with industry developments and emerging technologies, continuously evaluating new tools and methodologies for their practical application in production environments.
 
-## Contact Me
+## Contact
 
-- [Email](developer.thauan.andre@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/thauan-andre-b3365420b/)
+**Email:** developer.thauan@gmail.com  
+**LinkedIn:** [linkedin.com/in/thauan-andre-b3365420b](https://www.linkedin.com/in/thauan-andre-b3365420b/)
+
+I'm currently open to discussing opportunities where I can contribute to challenging technical problems and deliver significant impact.
