@@ -39,5 +39,4 @@ I maintain a disciplined approach to staying current with industry developments 
 
 **Email:** developer.thauan@gmail.com  
 **LinkedIn:** [linkedin.com/in/thauan-andre-b3365420b](https://www.linkedin.com/in/thauan-andre-b3365420b/)
-
-I'm currently open to discussing opportunities where I can contribute to challenging technical problems and deliver significant impact.
+**Site:** www.developerthauanandre.com/
