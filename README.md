@@ -1,7 +1,23 @@
 ```ruby
+module Maker
+  def study(theme)
+    Docs.read(theme) + Course.complete(theme)
+  end
+
+  def hands_on_project!(theme:, with:)
+    Repo.new(theme).build(with).test!.ship!
+  end
+
+  def certify!(project)
+    Certification.issue(project) if project.production_ready?
+  end
+end
+
 class Thauan < Developer
+  include Maker
+
   ROLE     = "Full Stack Developer"
-  LOCATION = "Minas Gerais, Brazil"
+  LEARNING = %w[Claude AWS DevOps].freeze
 
   def stack
     {
@@ -19,7 +35,21 @@ class Thauan < Developer
   def focus
     ["performance tuning", "scalable architecture", "code review & mentoring"]
   end
+
+  def improve!(theme)
+    knowledge = study(theme)
+    project   = hands_on_project!(theme: theme, with: knowledge)
+    certify!(project)
+  rescue StandardError
+    retry # not giving up
+  end
+
+  def keep_improving!
+    LEARNING.each { |theme| improve!(theme) }
+  end
 end
+
+Thauan.new.keep_improving!
 ```
 
 ```console
@@ -47,7 +77,9 @@ Thauan
   leadership
     ✓ leads Rails teams through architecture and code review
     ✓ mentors junior developers
+  growth
+    * studies Claude, AWS and DevOps toward certification (in progress)
 
 Finished in 4.2 years (files took 0.09s to load)
-8 examples, 0 failures
+9 examples, 0 failures, 1 pending
 ```
