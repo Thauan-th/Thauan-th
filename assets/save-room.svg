@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 690" width="880" height="690" role="img" aria-label="Thauan André de Oliveira — backend engineer. Rails, Python, AWS. 5 years.">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .lbl  { fill: #e8e6e3; font-size: 15px; letter-spacing: 1.5px; }
+      .arw  { fill: #c1272d; font-size: 15px; letter-spacing: 1.5px; }
+      .body { fill: #b9b6b2; font-size: 13.5px; }
+      .name { fill: #e8e6e3; font-size: 13.5px; letter-spacing: 0.6px; }
+      .eq   { fill: #5c8a5c; font-size: 12.5px; letter-spacing: 1px; }
+      .mut  { fill: #6f6c68; font-size: 13px; }
+      .num  { fill: #c1272d; font-size: 13.5px; letter-spacing: 0.4px; }
+      .hdr  { fill: #6f6c68; font-size: 12.5px; letter-spacing: 3px; }
+      .yes  { fill: #0d0b0a; font-size: 13.5px; letter-spacing: 2px; }
+      .no   { fill: #57544f; font-size: 13.5px; letter-spacing: 2px; }
+      .cur  { fill: #c1272d; animation: blink 1.15s steps(1) infinite; }
+      @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    </style>
+  </defs>
+
+  <rect width="880" height="690" fill="#0d0b0a"/>
+  <rect x="20" y="20" width="840" height="650" fill="#121010" stroke="#262322" stroke-width="1"/>
+
+  <!-- header -->
+  <rect x="20" y="20" width="840" height="46" fill="#171414" stroke="#262322" stroke-width="1"/>
+  <text class="mono" x="46" y="49">
+    <tspan fill="#c1272d" font-size="13.5" letter-spacing="2">T/A</tspan>
+    <tspan fill="#c1272d" font-size="13.5" dx="12">&#9646;</tspan>
+    <tspan class="hdr" dx="14">~/SAVE-ROOM</tspan>
+  </text>
+  <text class="mono hdr" x="834" y="49" text-anchor="end">AUTOSAVE</text>
+
+  <!-- examine -->
+  <text class="mono" x="46" y="108"><tspan class="arw">&gt;</tspan><tspan class="lbl" dx="10">EXAMINE DEVELOPER</tspan></text>
+  <text class="mono body" x="66" y="138">Thauan André de Oliveira — backend engineer, 5 years carried.</text>
+  <text class="mono body" x="66" y="159">Currently at a healthtech running at national scale, where a</text>
+  <text class="mono body" x="66" y="180">missed regulatory deadline is not an option.</text>
+
+  <!-- inventory -->
+  <text class="mono" x="46" y="224"><tspan class="arw">&gt;</tspan><tspan class="lbl" dx="10">INVENTORY</tspan></text>
+  <text class="mono" x="66" y="254"><tspan class="name">RUBY ON RAILS</tspan><tspan class="eq" x="290">EQUIPPED</tspan><tspan class="mut" x="410">5 yrs · the sidearm</tspan></text>
+  <text class="mono" x="66" y="277"><tspan class="name">PYTHON</tspan><tspan class="eq" x="290">EQUIPPED</tspan><tspan class="mut" x="410">FastAPI · Django · Flask</tspan></text>
+  <text class="mono" x="66" y="300"><tspan class="name">REACT / VUE</tspan><tspan class="eq" x="290">EQUIPPED</tspan><tspan class="mut" x="410">TypeScript</tspan></text>
+  <text class="mono" x="66" y="323"><tspan class="name">POSTGRES · REDIS</tspan><tspan class="eq" x="290">EQUIPPED</tspan><tspan class="mut" x="410">Sidekiq · Elasticsearch</tspan></text>
+  <text class="mono" x="66" y="346"><tspan class="name">AWS · DOCKER</tspan><tspan class="eq" x="290">EQUIPPED</tspan><tspan class="mut" x="410">Datadog · Sentry</tspan></text>
+
+  <!-- records -->
+  <text class="mono" x="46" y="390"><tspan class="arw">&gt;</tspan><tspan class="lbl" dx="10">RECORDS</tspan></text>
+  <text class="mono" x="66" y="420"><tspan class="num">3.5s → 180ms</tspan><tspan class="mut" x="250">critical endpoint · N+1 + layered Redis cache</tspan></text>
+  <text class="mono" x="66" y="443"><tspan class="num">15% → 78%</tspan><tspan class="mut" x="250">test coverage · RSpec + CI/CD</tspan></text>
+  <text class="mono" x="66" y="466"><tspan class="num">300k LOC</tspan><tspan class="mut" x="250">Rails 4 → 7 migration · zero downtime</tspan></text>
+  <text class="mono" x="66" y="489"><tspan class="num">99.5%+</tspan><tspan class="mut" x="250">uptime on AWS</tspan></text>
+
+  <!-- files -->
+  <text class="mono" x="46" y="533"><tspan class="arw">&gt;</tspan><tspan class="lbl" dx="10">FILES</tspan></text>
+  <text class="mono" x="66" y="563"><tspan class="mut">2021</tspan><tspan class="body" x="140">init: internship — legacy systems, SQL</tspan></text>
+  <text class="mono" x="66" y="584"><tspan class="mut">2022</tspan><tspan class="body" x="140">feat: full stack delivery — Rails, React, AWS</tspan></text>
+  <text class="mono" x="66" y="605"><tspan class="mut">2024</tspan><tspan class="body" x="140">refactor: promoted to Tech Lead</tspan></text>
+  <text class="mono" x="66" y="626"><tspan class="mut">2026</tspan><tspan class="body" x="140">feat: healthtech at scale — Rails + Vue</tspan></text>
+
+  <!-- save -->
+  <text class="mono" x="46" y="657"><tspan class="arw">&gt;</tspan><tspan class="lbl" dx="10">SAVE?</tspan></text>
+  <rect x="166" y="643" width="74" height="22" fill="#c1272d"/>
+  <text class="mono yes" x="203" y="658" text-anchor="middle">YES</text>
+  <text class="mono no" x="268" y="658">NO</text>
+  <rect class="cur" x="300" y="645" width="9" height="18"/>
+</svg>
